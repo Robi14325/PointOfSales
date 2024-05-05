@@ -1,5 +1,9 @@
 
 Create Database PointOfSale
+go
+
+Use PointOfSale
+go
 -------- 
 		--Employee
 --------
